@@ -39,9 +39,9 @@ layers:
   - {t: ., s: '>'}
   - {t: /, h: '?', s: '?'}
   - $$mdi:apple-keyboard-command$$
-  - {type: none}
-  - {type: none}
-  - {type: none}
+  - $$mdi:apple-keyboard-control$$
+  - LWIN
+  - $$mdi:apple-keyboard-option$$
   - {t: ESC, h: Fun}
   - {t: '$$mdi:keyboard-space$$', h: Edit-Mac}
   - {t: \, h: Nav, s: '|'}
